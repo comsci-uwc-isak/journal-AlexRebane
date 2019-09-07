@@ -1,2 +1,11 @@
-Today we looked at classifications of networks by their size and their topology.
-Next we used an IP scanner to find our raspberryPis on the LAN network and connected to them through ssh.
+we ran programs on a ssh connected raspberry pi:
+1. we connected
+2. using nano text editor we made .py files with simple programs
+3. ran them on the pi
+4. made program to list odd numbers
+5. made program to calculate grades of a class and list quantities of each grade
+
+I run Ubuntu through VirtualBox, I noticed the terminal lagging significantly in class. The virtual machine had only 4GB out of my 16GB
+RAM allocated, which I believe made it slow. So I changed the setting to 8 after class, will see what happens next class.
+
+Also, were lead to comment on programs (#). Will do from now on.
